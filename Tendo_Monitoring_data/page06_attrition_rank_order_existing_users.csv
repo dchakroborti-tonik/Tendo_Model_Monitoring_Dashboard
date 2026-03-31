@@ -1,0 +1,11 @@
+AttritionGroup,Count,Expected_Avg_TTA,Actual_Avg_TTA,Attrition_Rate_Pct,ModelVersion,Period,Segment_Order,RunMonth
+Very low,255203,14.9,4.3,10.5,Attrition v1.0 Prod,Jul 2025,1,2026-03
+Low,162281,10.4,4.0,11.8,Attrition v1.0 Prod,Jul 2025,2,2026-03
+Average,387754,8.2,3.5,15.7,Attrition v1.0 Prod,Jul 2025,3,2026-03
+High,225744,5.7,3.9,20.1,Attrition v1.0 Prod,Jul 2025,4,2026-03
+Very high,2892,3.3,3.7,23.7,Attrition v1.0 Prod,Jul 2025,5,2026-03
+Very low,364588,15.0,4.8,10.9,Attrition v2.0 BS,Jul 2025,1,2026-03
+Low,258780,10.5,4.8,10.8,Attrition v2.0 BS,Jul 2025,2,2026-03
+Average,554735,8.2,4.5,14.7,Attrition v2.0 BS,Jul 2025,3,2026-03
+High,316895,5.5,4.3,20.1,Attrition v2.0 BS,Jul 2025,4,2026-03
+Very high,9109,2.9,3.9,32.5,Attrition v2.0 BS,Jul 2025,5,2026-03

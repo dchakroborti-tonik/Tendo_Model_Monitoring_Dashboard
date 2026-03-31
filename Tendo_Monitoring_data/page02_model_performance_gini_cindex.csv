@@ -1,0 +1,37 @@
+Period,Start_Date,End_Date,Sample_Size,Bad_Rate_Pct,Gini,Model,ModelVersion,UserType,MetricName,RunMonth
+Jul 2025,2025-07-01,2025-07-31,114.0,66.67,0.0017,OOP Repay,v1.0 Prod,New users (< 3MOB),Gini,2026-03
+Aug 2025,2025-08-01,2025-08-31,77.0,68.83,0.0165,OOP Repay,v1.0 Prod,New users (< 3MOB),Gini,2026-03
+Sep 2025,2025-09-01,2025-09-30,103.0,71.84,-0.233,OOP Repay,v1.0 Prod,New users (< 3MOB),Gini,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,294.0,69.05,-0.0752,OOP Repay,v1.0 Prod,New users (< 3MOB),Gini,2026-03
+Jul 2025,2025-07-01,2025-07-31,107.0,66.36,0.2919,OOP Repay,v2.0 BS,New users (< 3MOB),Gini,2026-03
+Aug 2025,2025-08-01,2025-08-31,72.0,68.06,-0.0568,OOP Repay,v2.0 BS,New users (< 3MOB),Gini,2026-03
+Sep 2025,2025-09-01,2025-09-30,98.0,72.45,-0.1784,OOP Repay,v2.0 BS,New users (< 3MOB),Gini,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,277.0,68.95,0.0203,OOP Repay,v2.0 BS,New users (< 3MOB),Gini,2026-03
+Jul 2025,2025-07-01,2025-07-31,3314.0,72.39,0.2688,OOP Repay,v1.0 Prod,Existing users (>= 3MOB),Gini,2026-03
+Aug 2025,2025-08-01,2025-08-31,2622.0,70.1,0.255,OOP Repay,v1.0 Prod,Existing users (>= 3MOB),Gini,2026-03
+Sep 2025,2025-09-01,2025-09-30,2010.0,67.86,0.2627,OOP Repay,v1.0 Prod,Existing users (>= 3MOB),Gini,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,3628.0,72.11,0.2621,OOP Repay,v1.0 Prod,Existing users (>= 3MOB),Gini,2026-03
+Jul 2025,2025-07-01,2025-07-31,2315.0,70.89,0.29,OOP Repay,v2.0 BS,Existing users (>= 3MOB),Gini,2026-03
+Aug 2025,2025-08-01,2025-08-31,1797.0,67.67,0.3006,OOP Repay,v2.0 BS,Existing users (>= 3MOB),Gini,2026-03
+Sep 2025,2025-09-01,2025-09-30,1404.0,65.95,0.3027,OOP Repay,v2.0 BS,Existing users (>= 3MOB),Gini,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,2537.0,70.95,0.2975,OOP Repay,v2.0 BS,Existing users (>= 3MOB),Gini,2026-03
+Jul 2025,2025-07-01,2025-07-31,1476.0,71.61,0.0196,Attrition,v1.0 Prod,New users (< 3MOB),C-Index,2026-03
+Aug 2025,2025-08-01,2025-08-31,1069.0,73.53,0.0887,Attrition,v1.0 Prod,New users (< 3MOB),C-Index,2026-03
+Sep 2025,2025-09-01,2025-09-30,1156.0,71.37,-0.0275,Attrition,v1.0 Prod,New users (< 3MOB),C-Index,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,3701.0,72.09,0.0242,Attrition,v1.0 Prod,New users (< 3MOB),C-Index,2026-03
+Jul 2025,2025-07-01,2025-07-31,4630.0,79.59,-0.2184,Attrition,v2.0 BS,New users (< 3MOB),C-Index,2026-03
+Aug 2025,2025-08-01,2025-08-31,4207.0,81.67,-0.1851,Attrition,v2.0 BS,New users (< 3MOB),C-Index,2026-03
+Sep 2025,2025-09-01,2025-09-30,9518.0,82.64,-0.2493,Attrition,v2.0 BS,New users (< 3MOB),C-Index,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,18355.0,81.65,-0.2266,Attrition,v2.0 BS,New users (< 3MOB),C-Index,2026-03
+Jul 2025,2025-07-01,2025-07-31,35684.0,83.2,-0.1623,Attrition,v1.0 Prod,Existing users (>= 3MOB),C-Index,2026-03
+Aug 2025,2025-08-01,2025-08-31,35181.0,85.51,-0.1693,Attrition,v1.0 Prod,Existing users (>= 3MOB),C-Index,2026-03
+Sep 2025,2025-09-01,2025-09-30,34638.0,87.78,-0.1663,Attrition,v1.0 Prod,Existing users (>= 3MOB),C-Index,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,39208.0,82.99,-0.1666,Attrition,v1.0 Prod,Existing users (>= 3MOB),C-Index,2026-03
+Jul 2025,2025-07-01,2025-07-31,77179.0,84.14,-0.1745,Attrition,v2.0 BS,Existing users (>= 3MOB),C-Index,2026-03
+Aug 2025,2025-08-01,2025-08-31,81552.0,85.79,-0.1764,Attrition,v2.0 BS,Existing users (>= 3MOB),C-Index,2026-03
+Sep 2025,2025-09-01,2025-09-30,83996.0,88.06,-0.1577,Attrition,v2.0 BS,Existing users (>= 3MOB),C-Index,2026-03
+Jul-Sep 2025,2025-07-01,2025-09-30,87990.0,84.07,-0.1703,Attrition,v2.0 BS,Existing users (>= 3MOB),C-Index,2026-03
+Dev,,,,,0.3,OOP Repay,v1.0 Prod,New users (< 3MOB),Gini,2026-03
+Dev,,,,,0.32,OOP Repay,v1.0 Prod,Existing users (>= 3MOB),Gini,2026-03
+Dev,,,,,0.66,Attrition,v1.0 Prod,New users (< 3MOB),C-Index,2026-03
+Dev,,,,,0.64,Attrition,v1.0 Prod,Existing users (>= 3MOB),C-Index,2026-03
